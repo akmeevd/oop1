@@ -9,5 +9,6 @@ public class Main {
         human2.printHuman();
         human3.printHuman();
 
+
     }
 }
